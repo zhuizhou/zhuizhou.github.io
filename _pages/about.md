@@ -32,21 +32,6 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizho
 - *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
 - [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
 CIM Accelerator with Variation-Robust Sparsity"]
 - [**TCAS-I'24**] **Zhiwei Zhou†**, Jiancong Li†, Han Jia†, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao. ["ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic"](https://ieeexplore.ieee.org/document/10752350)
