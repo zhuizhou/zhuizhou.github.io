@@ -47,7 +47,7 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-[TCAS-I'24]<u>**Zhiwei Zhou**</u>, Jiancong Li, Han Jia, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao
+[TCAS-I'24]**<u>Zhiwei Zhou</u>**, Jiancong Li, Han Jia, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao
 
 # 🎖 Honors and Awards
 - *2025.08* The 8th China Postgraduate IC Innovation Competition, National Second Prize (**Captain**).
