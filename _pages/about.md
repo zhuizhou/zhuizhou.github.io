@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now the second-year PhD student at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), [School of Integrated Circuits](https://ic.hust.edu.cn/index.htm).I am under the supervision of [Prof. Yi Li](https://ismd.hust.edu.cn/info/1077/1257.htm) of [Odysseia Lab](https://www.liyilab.com/).
+I am now the second-year PhD student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), [School of Integrated Circuits](https://ic.hust.edu.cn/index.htm).I am under the supervision of [Prof. Yi Li](https://ismd.hust.edu.cn/info/1077/1257.htm) of [Odysseia Lab](https://www.liyilab.com/).
 
 My research interest includes Computing-in-memory (CIM) Architecture and Circuit.**Currently, I am deeply involved in specific projects related to heterogeneous CIM accelerators for edge LLM for my PhD research.**
 
@@ -29,8 +29,7 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉New Paper about "Outlier-aware CIM accelerator for Transformer" is accepted by ASP-DAC 2026.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
 
@@ -53,12 +52,10 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2025.12 (now)*, PhD of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
+- *2022.09 - 2024.09*, Master of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
+- *2018.09 - 2022.06*, Bachelor of Electronic Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 
