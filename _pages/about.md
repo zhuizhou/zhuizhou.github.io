@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now the second-year PhD student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), [School of Integrated Circuits](https://ic.hust.edu.cn/index.htm).I am under the supervision of [Prof. Yi Li](https://ismd.hust.edu.cn/info/1077/1257.htm) of [Odysseia Lab](https://www.liyilab.com/).
 
-My research interest includes Computing-in-memory (CIM) Architecture and Circuit.**Currently, I am deeply involved in specific projects related to heterogeneous CIM accelerators for edge LLM for my PhD research.**
+My research interests include Computing-in-memory (CIM) Architecture and Circuit.**Currently, I am deeply involved in specific projects related to heterogeneous CIM accelerators for edge LLM for my PhD research.**
 
 You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZhou.pdf). If you are interested in my work, please feel free to drop me an [email: zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com).
 
