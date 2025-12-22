@@ -48,8 +48,11 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08* The 8th China Postgraduate IC Innovation Competition, National Second Prize (**Captain**).
+- *2024.08* The 7th China Postgraduate IC Innovation Competition, National First Prize (Member).
+- *2023.10* The 20th China Postgraduate Mathematical Contest in Modeling, National Third Prize (**Captain**).
+- *2023.08* The 6th China Postgraduate IC Innovation Competition, National Second Prize (Member).
+- *2022.09* Volunteer for the 70th Anniversary of Huazhong University of Science and Technology.
 
 # 📖 Educations
 - *2024.09 - 2025.12 (now)*, PhD of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
