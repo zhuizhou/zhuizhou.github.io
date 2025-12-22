@@ -47,9 +47,9 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-- [ASP-DAC'26]**Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
+- [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
 CIM Accelerator with Variation-Robust Sparsity"]
-- [TCAS-I'24]**Zhiwei Zhou†**, Jiancong Li†, Han Jia†, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao. ["ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic"](https://ieeexplore.ieee.org/document/10752350)
+- [**TCAS-I'24**] **Zhiwei Zhou†**, Jiancong Li†, Han Jia†, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao. ["ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic"](https://ieeexplore.ieee.org/document/10752350)
 
 # 🎖 Honors and Awards
 - *2025.08* The 8th China Postgraduate IC Innovation Competition, National Second Prize (**Captain**).
