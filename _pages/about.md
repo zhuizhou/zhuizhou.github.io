@@ -32,7 +32,7 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 - *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +46,8 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZho
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+[TCAS-I'24]<u>**Zhiwei Zhou**</u>, Jiancong Li, Han Jia, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao
 
 # 🎖 Honors and Awards
 - *2025.08* The 8th China Postgraduate IC Innovation Competition, National Second Prize (**Captain**).
