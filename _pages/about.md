@@ -22,7 +22,7 @@ I am now the second-year PhD student at [Huazhong University of Science and Tech
 
 My research interests include Computing-in-memory (CIM) Architecture and Circuit.**Currently, I am deeply involved in specific projects related to heterogeneous CIM accelerators for edge LLM for my PhD research.**
 
-You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/CV_ZhiweiZhou.pdf). If you are interested in my work, please feel free to drop me an [email: zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com).
+You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizhou.pdf). If you are interested in my work, please feel free to drop me an [email: zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com).
 
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
