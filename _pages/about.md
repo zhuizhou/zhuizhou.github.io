@@ -57,6 +57,7 @@ CIM Accelerator with Variation-Robust Sparsity"]
 - *2023.10* The 20th China Postgraduate Mathematical Contest in Modeling, National Third Prize (**Captain**).
 - *2023.08* The 6th China Postgraduate IC Innovation Competition, National Second Prize (Member).
 - *2022.09* Volunteer for the 70th Anniversary of Huazhong University of Science and Technology.
+- *2022.06* Outstanding Graduates of Huazhong University of Science and Technology.
 
 # 📖 Educations
 - *2024.09 - 2025.12 (now)*, PhD of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
