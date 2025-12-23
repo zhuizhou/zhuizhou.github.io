@@ -48,7 +48,6 @@ CIM Accelerator with Variation-Robust Sparsity"]
 - *2024.09 - 2025.12 (now)*, PhD of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
 - *2022.09 - 2024.09*, Master of Integrated Circuit Science and Engineering, Huazhong University of Science and Technology, Wuhan, China. 
 - *2018.09 - 2022.06*, Bachelor of Electronic Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - 
