@@ -28,13 +28,14 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizho
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉New Paper about "CIM accelerator for Sparse Transformer" is accepted by DAC 2026.
 - *2026.01*: &nbsp;🎉🎉Our paper is selected as the Best Paper Candidate in ASP-DAC 2026! 
 - *2026.01*: &nbsp;🎉🎉New Paper about "CIM accelerator for Attention-free Transformer" is accepted by ISCAS 2026.
 - *2025.09*: &nbsp;🎉🎉New Paper about "Outlier-aware CIM accelerator for Transformer" is accepted by ASP-DAC 2026.
 - *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
-- [**DAC'26**] Tong Li*, **Zhiwei Zhou***, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li and Xiangshui Miao ["HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"] ()
+- [**DAC'26**] Tong Li*, **Zhiwei Zhou***, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li and Xiangshui Miao ["HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"] (Co-first Author)
 - [**ISCAS'26**] **Zhiwei Zhou**, Yuyang Fu, Jiancong Li, Yi Li, and Xiangshui Miao. ["Energy-Efficient Acceleration of Fourier-Based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry"]
 - [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
 CIM Accelerator with Variation-Robust Sparsity"] (2026 Best Paper Award Candidate)
