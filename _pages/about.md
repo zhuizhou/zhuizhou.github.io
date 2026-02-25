@@ -34,6 +34,7 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizho
 - *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
+- [**DAC'26**] Tong Li*, **Zhiwei Zhou***, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li and Xiangshui Miao ["HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"] ()
 - [**ISCAS'26**] **Zhiwei Zhou**, Yuyang Fu, Jiancong Li, Yi Li, and Xiangshui Miao. ["Energy-Efficient Acceleration of Fourier-Based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry"]
 - [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
 CIM Accelerator with Variation-Robust Sparsity"] (2026 Best Paper Award Candidate)
