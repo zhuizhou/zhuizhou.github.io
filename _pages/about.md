@@ -28,6 +28,7 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizho
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉New Paper about "Outlier-aware FP8 SRAM-CIM macro for edge Transformer" is accepted by VLSI 2026!!!
 - *2026.02*: &nbsp;🎉🎉New Paper about "CIM accelerator for Sparse Transformer" is accepted by DAC 2026.
 - *2026.01*: &nbsp;🎉🎉Our paper is selected as the Best Paper Candidate in ASP-DAC 2026! 
 - *2026.01*: &nbsp;🎉🎉New Paper about "CIM accelerator for Attention-free Transformer" is accepted by ISCAS 2026.
@@ -35,10 +36,11 @@ You can find my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizho
 - *2024.11*: &nbsp;🎉🎉New Paper about "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" is accepted by IEEE TCAS-I 2025.
 
 # 📝 Publications 
-- [**DAC'26**] Tong Li*, **Zhiwei Zhou***, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li and Xiangshui Miao ["HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"] (Co-first Author)
+- [**VLSI'26**] **Zhiwei Zhou†**, Tong Hu†, Jia Chen, Jiancong Li, Yuyang Fu, Yi Li and Xiangshui Miao [A 40nm 24.85-to-80.59 TFLOPS/W FP8 Computing-in-Memory Macro with Outlier-Aware Hierarchical-Alignment for Edge Transformers] (Co-first Author)
+- [**DAC'26**] Tong Li†, **Zhiwei Zhou†**, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li and Xiangshui Miao ["HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"] (Co-first Author)
 - [**ISCAS'26**] **Zhiwei Zhou**, Yuyang Fu, Jiancong Li, Yi Li, and Xiangshui Miao. ["Energy-Efficient Acceleration of Fourier-Based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry"]
 - [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, and Xiangshui Miao. ["OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM
-CIM Accelerator with Variation-Robust Sparsity"] (2026 Best Paper Award Candidate)
+CIM Accelerator with Variation-Robust Sparsity"](https://ieeexplore.ieee.org/document/11420538) (2026 Best Paper Award Candidate)
 - [**TCAS-I'24**] **Zhiwei Zhou†**, Jiancong Li†, Han Jia†, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, and Xiangshui Miao. ["ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic"](https://ieeexplore.ieee.org/document/10752350)
 
 # 🎖 Honors and Awards
