@@ -81,7 +81,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'
 <span class='anchor' id='technical-skills'></span>
 
 # Technical Skills
-- **EDA Tools**: Cadence (Virtuoso, Innovus), Synopsys (Design Compiler).
+- **EDA Tools**: Cadence (Virtuoso, Innovus), Synopsys (Design Compiler, PrimeTime), CACTI 7.0.
 - **Programming**: Verilog HDL, Python (PyTorch), C/C++.
 - **Frameworks**: Developer of [MemIntelli](https://github.com/HUST-ISMD-Odyssey/MemIntelli).
 
