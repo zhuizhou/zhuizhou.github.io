@@ -24,19 +24,19 @@ My research focuses on Computing-in-Memory (CIM) architecture and circuit design
 
 You can download my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiweizhou.pdf).
 
-Contact: [zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com) | [zhou_zw@hust.edu.cn](mailto:zhou_zw@hust.edu.cn)
+If you are interested in my work, please feel free to drop me an email: [zhou_zw@hust.edu.cn](mailto:zhou_zw@hust.edu.cn) | [zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com)
 
 Google Scholar: <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.03*: New paper "Outlier-aware FP8 SRAM-CIM macro for edge Transformer" accepted by VLSI 2026.
-- *2026.02*: New paper "CIM accelerator for Sparse Transformer" accepted by DAC 2026.
-- *2026.01*: Our ASP-DAC 2026 paper was selected as a Best Paper Candidate.
-- *2026.01*: New paper "CIM accelerator for Attention-free Transformer" accepted by ISCAS 2026.
-- *2025.09*: New paper "Outlier-aware CIM accelerator for Transformer" accepted by ASP-DAC 2026.
-- *2024.11*: New paper "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" accepted by IEEE TCAS-I 2025.
+- *2026.03*: &nbsp;🎉🎉New paper "Outlier-aware FP8 SRAM-CIM macro for edge Transformer" accepted by VLSI 2026!!!
+- *2026.02*: &nbsp;🎉🎉New paper "CIM accelerator for Sparse Transformer" accepted by DAC 2026.
+- *2026.01*: &nbsp;🎉🎉Our ASP-DAC 2026 paper was selected as a Best Paper Candidate!!
+- *2026.01*: &nbsp;🎉🎉New paper "CIM accelerator for Attention-free Transformer" accepted by ISCAS 2026.
+- *2025.09*: &nbsp;🎉🎉New paper "Outlier-aware CIM accelerator for Transformer" accepted by ASP-DAC 2026.
+- *2024.11*: &nbsp;🎉🎉New paper "Arbitrary-Precision CIM accelerator with Unified INT/FP Arithmetic" accepted by IEEE TCAS-I 2025.
 
 <span class='anchor' id='publications'></span>
 
@@ -77,7 +77,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'
 <span class='anchor' id='technical-skills'></span>
 
 # Technical Skills
-- **EDA Tools**: Cadence (Virtuoso, Innovus), Synopsys (Design Compiler, PrimeTime), CACTI 7.0.
+- **EDA Tools**: Cadence (Virtuoso, Innovus), Synopsys (Design Compiler).
 - **Programming**: Verilog HDL, Python (PyTorch), C/C++.
 - **Frameworks**: Developer of [MemIntelli](https://github.com/HUST-ISMD-Odyssey/MemIntelli).
 
