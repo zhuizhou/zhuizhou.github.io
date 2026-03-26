@@ -2,7 +2,7 @@
 
 **Email:** [zhou_zw@hust.edu.cn](mailto:zhou_zw@hust.edu.cn) | [zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com)  
 **Phone:** +86 18290102978  
-**Website:** [zhuizhou.github.io](https://zhuizhou.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yu4G0pcAAAAJ)  
+**Website:** [zhuizhou.github.io](https://zhuizhou.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yu4G0pcAAAAJ) | **ORCID:** (to add)
 **Address:** Luoyu Road 1037, Wuhan, China
 
 ---
@@ -30,15 +30,11 @@ My research focuses on **Computing-in-Memory (CIM) Architecture and Circuit**, s
 ## 📝 Publications
 
 ### Selected Publications
-* [**TCAS-I**] **Zhiwei Zhou†**, Jiancong Li†, Han Jia†, et al. "**ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic**," *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2025.
-    * Proposed a reconfigurable analog CIM accelerator supporting precision from 1-bit to 47-bit.
-    * Introduced a CIM-friendly local pre-alignment method with round truncation to minimize precision loss.
-* [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, et al. "**OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM CIM Accelerator with Variation-Robust Sparsity**," *Accepted by Asia and South Pacific Design Automation Conference*, 2026.
-    * Developed an outlier-aware hybrid CIM architecture addressing the heavy-tailed activation distribution in Transformers.
-    * Proposed Balanced Bit Sparsity to mitigate RRAM device variation noise during sparse computation.
-* [**DAC’26 Under Review**] **Zhiwei Zhou**, Jiancong Li, et al. "**CIM-QMap: A Co-design Framework for RRAM-based Computing-In-Memory Architecture with Automatic Quantization and Mapping Optimization**".
-    * Presented an automated framework with a unified metric simulator  and a layer-wise pruning-guided DSE engine.
-* [**ISCAS’26 Under Review**] **Zhiwei Zhou**, et al. "**Energy-Efficient Acceleration of Fourier-based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry**."
+* [**VLSI'26**] **Zhiwei Zhou†**, Tong Hu†, Jia Chen, Jiancong Li, Yuyang Fu, Yi Li, Xiangshui Miao. "**A 40nm 24.85-to-80.59 TFLOPS/W FP8 Computing-in-Memory Macro with Outlier-Aware Hierarchical-Alignment for Edge Transformers**" (Co-first Author).
+* [**DAC'26**] Tong Li†, **Zhiwei Zhou†**, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li, Xiangshui Miao. "**HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation**" (Co-first Author).
+* [**ISCAS'26**] **Zhiwei Zhou**, Yuyang Fu, Jiancong Li, Yi Li, Xiangshui Miao. "**Energy-Efficient Acceleration of Fourier-Based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry**".
+* [**ASP-DAC'26**] **Zhiwei Zhou**, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, Xiangshui Miao. "**OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM CIM Accelerator with Variation-Robust Sparsity**" (Best Paper Candidate).
+* [**TCAS-I'25**] **Zhiwei Zhou†**, Jiancong Li†, Han Jia†, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, Xiangshui Miao. "**ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic**".
 
 ---
 

@@ -26,6 +26,10 @@ You can download my CV here: [Zhiwei Zhou's Curriculum Vitae](../assets/cv_zhiwe
 
 If you are interested in my work, please feel free to drop me an email: [zhou_zw@hust.edu.cn](mailto:zhou_zw@hust.edu.cn) | [zw.zhou.2000@gmail.com](mailto:zw.zhou.2000@gmail.com)
 
+{% if site.author.orcid and site.author.orcid != "" %}
+ORCID: [{{ site.author.orcid }}]({{ site.author.orcid }})
+{% endif %}
+
 Google Scholar: <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='news'></span>
@@ -91,7 +95,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=yu4G0pcAAAAJ'
 {% endif %}
 
 {% if site.clustrmaps_id and site.clustrmaps_id != "" %}
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=a"></script>
 {% else %}
-Set `clustrmaps_id` in `_config.yml` after registering your site on [ClustrMaps](https://clustrmaps.com) to show the world map with visitor locations.
+Set `clustrmaps_id` in `_config.yml` after registering your site on [ClustrMaps](https://clustrmaps.com) to show the visitor world map.
 {% endif %}
