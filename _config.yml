@@ -16,7 +16,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # visitor analytics widgets (optional)
 busuanzi_enabled         : true
-clustrmaps_id            :  # get clustrmaps_id after registering https://clustrmaps.com
+clustrmaps_id            : otaumG6m98ukyWmMdrL50T7zsQ39RFF527f2J7usBxs # get clustrmaps_id after registering https://clustrmaps.com
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
