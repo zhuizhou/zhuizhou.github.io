@@ -10,6 +10,7 @@ title                    : "Zhiwei Zhou"
 description              : "PhD student in compute-in-memory architecture and circuit design at HUST"
 repository               : "zhuizhou/zhuizhou.github.io"
 google_scholar_stats_use_cdn : true
+google_scholar_citations : 35
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -26,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiwei Zhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.jpg"
   bio              : "PhD student, HUST"
   location         : "Wuhan, China"
   employer         : "Odysseia Lab"

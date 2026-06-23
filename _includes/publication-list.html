@@ -1,0 +1,44 @@
+<ol class="publication-list{% if include.compact %} publication-list--compact{% endif %}">
+{% for pub in include.publications %}
+  <li class="publication-item{% unless pub.image %} publication-item--plain{% endunless %}">
+    {% if pub.image %}
+      <a class="publication-thumb" href="{% if pub.html %}{{ pub.html }}{% elsif pub.pdf %}{{ pub.pdf }}{% elsif pub.scholar %}{{ pub.scholar }}{% else %}#{{ pub.id }}{% endif %}" {% if pub.html or pub.pdf or pub.scholar %}target="_blank" rel="noopener"{% endif %} aria-label="{{ pub.title }}">
+        <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }} figure preview">
+      </a>
+    {% endif %}
+    <article class="publication-body" id="{{ pub.id }}">
+      <h3>{{ pub.title }}</h3>
+      <p class="publication-authors">{{ pub.authors }}</p>
+      <p class="publication-meta"><em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}{% if pub.note %}. <span class="note">{{ pub.note }}</span>{% endif %}</p>
+
+      <div class="publication-actions" aria-label="Publication links">
+        {% if pub.abstract %}
+          <details class="abstract-toggle">
+            <summary>ABS</summary>
+            <p>{{ pub.abstract }}</p>
+          </details>
+        {% endif %}
+        {% if pub.html %}
+          <a class="pub-btn" href="{{ pub.html }}" target="_blank" rel="noopener">HTML</a>
+        {% endif %}
+        {% if pub.pdf %}
+          <a class="pub-btn" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
+        {% endif %}
+        {% if pub.scholar %}
+          <a class="pub-btn" href="{{ pub.scholar }}" target="_blank" rel="noopener">SCHOLAR</a>
+        {% endif %}
+        {% if pub.status %}
+          <span class="pub-status">{{ pub.status }}</span>
+        {% endif %}
+      </div>
+
+      <div class="publication-metrics" aria-label="Publication metrics">
+        <span class="metric-badge">Citations <strong>{{ pub.citations | default: 0 }}</strong></span>
+        {% if pub.scholar %}
+          <a class="metric-badge metric-badge--scholar" href="{{ pub.scholar }}" target="_blank" rel="noopener">scholar <strong>{{ pub.citations | default: 0 }}</strong></a>
+        {% endif %}
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ol>

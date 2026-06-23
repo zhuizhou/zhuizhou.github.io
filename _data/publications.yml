@@ -1,0 +1,127 @@
+- id: vlsi-2026-fp8-cim
+  selected: true
+  title: "A 40nm 24.85-to-80.59 TFLOPS/W FP8 Computing-in-Memory Macro with Outlier-Aware Hierarchical-Alignment for Edge Transformers"
+  authors: "<strong>Zhiwei Zhou</strong><sup>*</sup>, Tong Hu<sup>*</sup>, Jia Chen, Jiancong Li, Yuyang Fu, Yi Li, Xiangshui Miao"
+  venue: "2026 IEEE Symposium on VLSI Technology and Circuits"
+  year: 2026
+  note: "* Equal contribution."
+  image: "/images/publications/vlsi-2026-fp8-cim.png"
+  citations: 0
+  status: "HTML/PDF pending"
+  abstract: >-
+    This paper presents a digital compute-in-memory (CIM)-based macro tailored for edge Transformer acceleration. It introduces a Hierarchical Dual-Exponent Alignment scheme that separates outliers from normal values, a Sign-Magnitude Input Serial Pipelined Aligner that reduces area and power, and a Shift-Concat based Sign-Inverse Adder Tree that saves accumulation area and power. The measured macro achieves 24.85-80.59 TFLOPS/W in FP8 and up to 6.66x energy-efficiency improvement over state-of-the-art post-alignment FP-CIM schemes.
+
+- id: dac-2026-hp-cim
+  selected: true
+  title: "HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-based Hash Predictor for Attention Sparsity Exploitation"
+  authors: "Tong Li<sup>*</sup>, <strong>Zhiwei Zhou</strong><sup>*</sup>, Jiancong Li, Yuyang Fu, Yingjie Yu, Tong Hu, Jia Chen, Yi Li, Xiangshui Miao"
+  venue: "Design Automation Conference (DAC)"
+  year: 2026
+  note: "* Equal contribution."
+  image: "/images/publications/dac-2026-hp-cim.png"
+  citations: 0
+  status: "HTML/PDF pending"
+  abstract: >-
+    HP-CIM is a computing-in-memory Transformer accelerator that exploits attention sparsity through a ReRAM-based hash predictor. The predictor uses intrinsic ReRAM conductance variation for low-cost hash projection and integrates a ReRAM content-addressable memory with a K-winner-take-all circuit for parallel Top-K matching. Across multiple Transformer models and tasks, HP-CIM improves energy efficiency by 9.05-310.04x and speed by 2.48-16.93x over state-of-the-art CIM-based Transformer accelerators.
+
+- id: iscas-2026-fnet
+  selected: true
+  title: "Energy-Efficient Acceleration of Fourier-Based Transformers on RRAM-CIM via Mixed-Precision and DFT Symmetry"
+  authors: "<strong>Zhiwei Zhou</strong>, Yuyang Fu, Jiancong Li, Yi Li, Xiangshui Miao"
+  venue: "IEEE International Symposium on Circuits and Systems (ISCAS)"
+  year: 2026
+  image: "/images/publications/iscas-2026-fnet.png"
+  citations: 0
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:Y0pCki6q_DkC"
+
+- id: aspdac-2026-oah
+  selected: true
+  title: "OAH-CIM: Outlier-Aware Hybrid RRAM-SRAM CIM Accelerator with Variation-Robust Sparsity"
+  authors: "<strong>Zhiwei Zhou</strong>, Tong Hu, Han Bao, Houji Zhou, Yuyang Fu, Jiancong Li, Jia Chen, Yi Li, Xiangshui Miao"
+  venue: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
+  year: 2026
+  note: "Best Paper Candidate."
+  image: "/images/publications/aspdac-2026-oah.png"
+  html: "https://ieeexplore.ieee.org/document/11420538"
+  citations: 0
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:Tyk-4Ss8FVUC"
+
+- id: tcas-2025-arpcim
+  selected: true
+  title: "ArPCIM: An Arbitrary-Precision Analog Computing-in-Memory Accelerator With Unified INT/FP Arithmetic"
+  authors: "<strong>Zhiwei Zhou</strong><sup>*</sup>, Jiancong Li<sup>*</sup>, Han Jia<sup>*</sup>, Ling Yang, Houji Zhou, Han Bao, Yuyang Fu, Yi Li, Xiangshui Miao"
+  venue: "IEEE Transactions on Circuits and Systems I: Regular Papers"
+  year: 2025
+  note: "* Equal contribution."
+  image: "/images/publications/tcas-2025-arpcim.png"
+  html: "https://ieeexplore.ieee.org/document/10752350"
+  citations: 9
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:d1gkVwhDpl0C"
+
+- id: memintelli-2025
+  selected: true
+  title: "MemIntelli: A Generic End-to-End Simulation Framework for Memristive Intelligent Computing"
+  authors: "Houji Zhou, Ling Yang, <strong>Zhiwei Zhou</strong>, Yi Li, Xiangshui Miao"
+  venue: "arXiv preprint arXiv:2511.17418"
+  year: 2025
+  image: "/images/publications/memintelli-2025.png"
+  html: "https://arxiv.org/abs/2511.17418"
+  pdf: "https://arxiv.org/pdf/2511.17418"
+  citations: 0
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:IjCSPb-OGe4C"
+
+- id: sciadv-2025-matrix
+  selected: false
+  title: "Fully analog iteration for solving matrix equations with in-memory computing"
+  authors: "Jiancong Li, Yibin Xue, Yi Li, Han Jia, <strong>Zhiwei Zhou</strong>, Ling Yang, Shuangchen Ren, Jia Chen, Yichao He, Keni Xue, Mingxu Xu, and others"
+  venue: "Science Advances 11(7), eadr6391"
+  year: 2025
+  html: "https://www.science.org/doi/10.1126/sciadv.adr6391"
+  citations: 16
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:9yKSN-GCB0IC"
+
+- id: sciadv-2025-fno
+  selected: false
+  title: "Memristive floating-point Fourier neural operator network for efficient scientific modeling"
+  authors: "Jiancong Li, Jintao Tian, Yixin Lin, <strong>Zhiwei Zhou</strong>, Yi Li, Beibei Gao, Jianshi Tang, Jia Chen, Yichao He, Huaqiang Qian, and others"
+  venue: "Science Advances 11(25), eadv4446"
+  year: 2025
+  html: "https://www.science.org/doi/10.1126/sciadv.adv4446"
+  citations: 5
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:qjMakFHDy7sC"
+
+- id: iedm-2024-solver
+  selected: false
+  title: "Demonstration of a floating-point deep neural matrix equation solver using 3D vertical ReRAM with high energy-and area-efficiency"
+  authors: "Jiancong Li, Shuangchen Ren, Yi Li, Weidong Peng, <strong>Zhiwei Zhou</strong>, Yibin Xue, Yuzhe Zhang, Zhijun Cao, Jiahao Sun, Yichao He, and others"
+  venue: "IEEE International Electron Devices Meeting (IEDM)"
+  year: 2024
+  citations: 3
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:2osOgNQ5qMEC"
+
+- id: nanoarch-2023-isa
+  selected: false
+  title: "Heterogeneous instruction set architecture for RRAM-enabled in-memory computing"
+  authors: "Houji Zhou, <strong>Zhiwei Zhou</strong>, Shuangchen Ren, Jia Chen, Yi Li, Xiangshui Miao"
+  venue: "Proceedings of the 18th ACM International Symposium on Nanoscale Architectures"
+  year: 2023
+  citations: 1
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:u-x6o8ySG0sC"
+
+- id: icta-2023-dft
+  selected: false
+  title: "Energy-Efficient ReRAM-Based High-Precision Discrete Fourier Transform for Image Reconstruction"
+  authors: "Fuxiang Lu, Yi Li, Jiancong Li, Yibin Xue, <strong>Zhiwei Zhou</strong>, Xiangshui Miao"
+  venue: "IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)"
+  year: 2023
+  citations: 1
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:u5HHmVD_uO8C"
+
+- id: dac-2025-resmips
+  selected: false
+  title: "ReSMiPS: A ReRAM-based Sparse Mixed-precision Solver with Fast Matrix Reordering Algorithm"
+  authors: "Yuyang Fu, Jiancong Li, Jia Chen, <strong>Zhiwei Zhou</strong>, Houji Zhou, Weidong Peng, Yi Li, Xiangshui Miao"
+  venue: "62nd ACM/IEEE Design Automation Conference (DAC)"
+  year: 2025
+  citations: 0
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yu4G0pcAAAAJ&citation_for_view=yu4G0pcAAAAJ:UeHWp8X0CEIC"
