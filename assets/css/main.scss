@@ -532,14 +532,15 @@ h1:before, .anchor:before {
 }
 
 .profile-hero__inner {
-    grid-template-columns: 9rem minmax(0, 1fr);
-    gap: 1.45rem;
+    grid-template-columns: 11rem minmax(0, 1fr);
+    gap: 1.55rem;
 }
 
 .profile-mark {
-    width: 8.5rem;
-    height: 8.5rem;
+    width: 10.5rem;
+    height: auto;
     border-radius: 6px;
+    object-fit: contain;
 }
 
 .scholar-summary {
@@ -560,6 +561,29 @@ h1:before, .anchor:before {
     img {
         height: 20px;
     }
+}
+
+.scholar-count {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+
+    strong {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 1.75rem;
+        min-height: 1.35rem;
+        padding: 0 .35rem;
+        border-radius: 3px;
+        color: #fff;
+        background: #2563eb;
+        font-size: .9em;
+    }
+}
+
+.scholar-shield {
+    display: inline-flex;
 }
 
 .timeline-list li {
@@ -789,8 +813,8 @@ h1:before, .anchor:before {
     }
 
     .profile-mark {
-        width: 7rem;
-        height: 7rem;
+        width: min(100%, 10.5rem);
+        height: auto;
     }
 
     .publication-item:before {

@@ -32,12 +32,15 @@ redirect_from:
 
 <section class="profile-hero" id="about">
   <div class="profile-hero__inner">
-    <img class="profile-mark" src="{{ '/images/profile.jpg' | relative_url }}" alt="Zhiwei Zhou">
+    <img class="profile-mark" src="{{ '/images/profile-original.jpg' | relative_url }}" alt="Zhiwei Zhou">
     <div>
       <h1>Zhiwei Zhou</h1>
       <p class="profile-subtitle">PhD student, School of Integrated Circuits, Huazhong University of Science and Technology</p>
       <p>
-        I am a PhD student at <a href="https://www.hust.edu.cn/" target="_blank" rel="noopener">Huazhong University of Science and Technology (HUST)</a>, supervised by <a href="https://ismd.hust.edu.cn/info/1077/1257.htm" target="_blank" rel="noopener">Prof. Yi Li</a> in <a href="https://www.liyilab.com/" target="_blank" rel="noopener">Odysseia Lab</a>. My research focuses on compute-in-memory (CIM) architecture and circuit design for efficient AI acceleration.
+        I am a PhD student at <a href="https://www.hust.edu.cn/" target="_blank" rel="noopener">Huazhong University of Science and Technology (HUST)</a>, supervised by <a href="https://ismd.hust.edu.cn/info/1077/1257.htm" target="_blank" rel="noopener">Prof. Yi Li</a> in <a href="https://www.liyilab.com/" target="_blank" rel="noopener">Odysseia Lab</a>. I am currently a postgraduate visiting student in the Department of Electronic and Computer Engineering at <a href="https://hkust.edu.hk/" target="_blank" rel="noopener">The Hong Kong University of Science and Technology (HKUST)</a>, working with <a href="https://fengtulab.com/" target="_blank" rel="noopener">Prof. Fengbin Tu</a>.
+      </p>
+      <p>
+        My research focuses on compute-in-memory (CIM) architecture and circuit design for efficient AI acceleration. I am especially interested in SRAM/ReRAM-based CIM macros, mixed-precision and floating-point arithmetic, sparsity- and outlier-aware Transformer acceleration, and end-to-end simulation frameworks that connect device non-idealities, circuit implementation, and architecture-level performance.
       </p>
       <div class="profile-links" aria-label="Profile links">
         <a href="mailto:zhou_zw@hust.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
@@ -46,8 +49,8 @@ redirect_from:
         <a href="{{ '/assets/cv_zhiweizhou.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i>CV</a>
       </div>
       <div class="scholar-summary">
-        <a href="https://scholar.google.com/citations?user=yu4G0pcAAAAJ" target="_blank" rel="noopener">Google Scholar: Cited by {{ site.google_scholar_citations }}</a>
-        <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations">
+        <a class="scholar-count" href="https://scholar.google.com/citations?user=yu4G0pcAAAAJ" target="_blank" rel="noopener"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar citations: <strong id="total_cit">{{ site.google_scholar_citations }}</strong></a>
+        <a class="scholar-shield" href="https://scholar.google.com/citations?user=yu4G0pcAAAAJ" target="_blank" rel="noopener"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
       </div>
     </div>
   </div>

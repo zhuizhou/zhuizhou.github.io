@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiwei Zhou"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile-original.jpg"
   bio              : "PhD student, HUST"
   location         : "Wuhan, China"
   employer         : "Odysseia Lab"
