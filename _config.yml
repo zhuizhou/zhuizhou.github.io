@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Zhou"
-description              : "Second-year PhD student at Huazhong University of Science and Technology "
+description              : "PhD student in compute-in-memory architecture and circuit design at HUST"
 repository               : "zhuizhou/zhuizhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,12 +27,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiwei Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "PhD student, HUST"
   location         : "Wuhan, China"
-  employer         :
+  employer         : "Odysseia Lab"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yu4G0pcAAAAJ"
-  email            : "zw.zhou.2000@gmail.com"
+  email            : "zhou_zw@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhiwei-Zhou-29/research"
   uri              :
   bitbucket        :
